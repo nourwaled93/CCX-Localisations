@@ -1,0 +1,28 @@
+<dict>
+    <key>DARK_MODE_ON</key>
+    <string>وضع الظلام: تشغيل</string>
+    <key>DARK_MODE_OFF</key>
+    <string>وضع الظلام: إيقاف </string>
+    <key>NIGHT_SHIFT_ON</key>
+    <string>وردية ليلية: تشغيل</string>
+    <key>NIGHT_SHIFT_OFF</key>
+    <string>وردية ليلية: إيقاف</string>
+    <key>AIRPLAY_MIRRORING</key>
+    <string>اذاعة\nانعكاس</string>
+    <key>AIRDROP_OFF</key>
+    <string>اذاعة:\nإيقاف حصول</string>
+    <key>AIRDROP_CONTACTS</key>
+    <string>إسقاط جوي:\nجهات الاتصال فقط</string>
+    <key>AIRDROP_EVERYONE</key>
+    <string>إسقاط جوي:\nالجميع</string>
+    <key>AIRDROP_MENU_OFF</key>
+    <string>إيقاف حصول</string>
+    <key>AIRDROP_MENU_CONTACTS</key>
+    <string>جهات الاتصال فقط</string>
+    <key>AIRDROP_MENU_EVERYONE</key>
+    <string>الجميع</string>
+    <key>AIRDROP_MENU_TITLE</key>
+    <string>.يمكن اكتشافها في إنزال تلقي من الجميع أو فقط الناس في جهات الاتصال الخاصة بك</string>
+    <key>AIRDROP_MENU_CANCEL</key>
+    <string>ألغي</string>
+</dict>
